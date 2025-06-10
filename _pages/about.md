@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Liu Tong, a second-year PhD student in Institute of Information Engineering, Chinese Academy of Sciences, advised by Prof. Kai Chen and Prof. Guozhu Meng. I am also a core player of the well-known CTF teams Nu1L and Straw Hat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests mainly focus on **AI security** and **software security**, with particular attention to their intersection and exploring security issues within the AI software ecosystem. My work has been published in top-tier academic and industry conferences and journals such as **CCS, USENIX Security, TOSEM, and BlackHat**.
+
+Besides research, I am an independent bug hunter who has discovered hundreds of vulnerabilities in both open-source and closed-source software, earning acknowledgments from leading tech companies including **Apple, Google, Microsoft, Baidu, and Huawei**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I'll present my research as an *invited speaker* in **ISSTA LLMSC workshop**. 
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by **CCS 2024**. 
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by **USENIX Security 2024**. 
+- *2024.01*: &nbsp;🎉🎉 Our talk got accepted by **BlackHat Asia 2024**. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Demystifying RCE Vulnerabilities in LLM-Integrated Apps**  [[PDF](/papers/LLMSmith-CCS.pdf)] [[Code](https://github.com/LLMSmith/LLMSmith)]  
+  <u>Tong Liu</u>, Zizhuang Deng, Guozhu Meng, Yuekang Li, Kai Chen.  
+  *ACM Conference on Computer and Communications Security (**CCS**), 2024* (<span style="color:#B00C00">CCF-A</span>)   
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**  [[PDF](/papers/usenixsecurity24-liu-tong-3.pdf)] [[Code](https://github.com/LLM-DRA/DRA)] [[Video](https://www.youtube.com/watch?v=_hXBL_Wj_RM&t=3s)]  
+  <u>Tong Liu</u>, Yingjie Zhang, Zhe Zhao, Yinpeng Dong, Guozhu Meng, Kai Chen.  
+  *USENIX Security Symposium (**Security**), 2024* (<span style="color:#B00C00">CCF-A</span>)   
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **LLM4Shell: Discovering and Exploiting RCE Vulnerabilities in Real-World LLM-Integrated Frameworks and Apps**  [[Slides](/papers/bh-asia-2024-llm4shell-2.pdf)] [[Video](https://www.youtube.com/watch?v=LcLrG_4i19E)]  
+  <u>Tong Liu</u>, Yuekang Li, Zizhuang Deng, Guozhu Meng, Kai Chen.  
+  *BlackHat Asia, 2024*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Differential Testing of Cross Deep Learning Framework APIs: Revealing Inconsistencies and Vulnerabilities**  [[PDF](https://www.usenix.org/system/files/usenixsecurity23-deng-zizhuang.pdf)] [[Slides](https://www.usenix.org/system/files/sec23_slides_deng-zizhuang.pdf)] [[Video](https://www.youtube.com/watch?v=-Nh8eu9bVGw)]  
+  Zizhuang Deng, Guozhu Meng, Kai Chen, <u>Tong Liu</u>, Lu Xiang, Chunyang Chen.  
+  *USENIX Security Symposium (**Security**), 2023* (<span style="color:#B00C00">CCF-A</span>)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Attack as Detection: Using Adversarial Attack Methods to Detect Abnormal Examples**  [[PDF](/papers/TOSEM23)]  
+  Zhe Zhao, Guangke Chen, <u>Tong Liu</u>, Taishan Li, Fu Song, Jingyi Wang, Jun Sun.  
+  *ACM Transactions on Software Engineering and Methodology (**TOSEM**)* (<span style="color:#B00C00">CCF-A</span>)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+## 🛡️ Bug Bounty & Security Research
+- **Bug Bounty and Acknowledgements** from leading tech companies including Apple, Microsoft, Google, Huawei, and Baidu etc.
+- Discovered and reported **40+ CVEs** in AI infrastructures (Deep learning libraries, LLM-integrated frameworks, etc.)
+
+## 🏆 Selected CTF & AI Competitions
+
+| Achievement | Team |
+|:------------|-----:|
+| **4th Place**, DEFCON CTF Qual 2024 |  Straw Hat |
+| **5th Place**, DEFCON CTF Final 2024 |  Straw Hat |
+| **1st Place**, ByteAI 2024 |  suibianwanwan |
+| **5th Place**, DEFCON CTF Final 2023 |  Straw Hat |
+| **6th Place**, DEFCON CTF Qual 2023 |  Straw Hat |
+| **1st Place**, D3CTF 2022 |  Nu1L |
+| **3rd Place**, 0CTF 2022 |  Straw Hat |
+| **7th Place**, DEFCON CTF Final 2022 |  Straw Hat |
+| **8th Place**, DEFCON CTF Qual 2022 |  Straw Hat |
+| **1st Place**, CVPR 2022 Workshop-Track II Phase I |  ShanghaiTech-S3L |
+| **5th Place**, CVPR 2022 Workshop-Track II Phase II |  ShanghaiTech-S3L |
+| **7th Place**, 0CTF 2021 Final |  Nu1L |
+| **7th Place**, DEFCON CTF 2021 Final |  Nu1L |
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D, Institute of Information Engineering, Chinese Academy of Sciences; School of Cyber Security, University of Chinese Academy of Sciences.
+- *2019.09 - 2023.06*, ShanghaiTech University, SIST. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06*, Invited speaker, ISSTA LLMSC workshop 2025.
+- *2025.03*, LLM Security, Aliyun WhiteHat Conference 2025.
+- *2024.08*, New Security Exploitations in the Era of LLMs, CTFCON 2024.
+- *2024.04*, LLM4Shell, BlackHat Asia 2024. 
