@@ -81,7 +81,7 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
 - *2019.09 - 2023.06*, ShanghaiTech University, SIST. 
 
 # 💬 Invited Talks
-- *2025.06*, Invited speaker, ISSTA LLMSC workshop 2025.
-- *2025.03*, LLM Security, Aliyun WhiteHat Conference 2025.
-- *2024.08*, New Security Exploitations in the Era of LLMs, CTFCON 2024.
-- *2024.04*, LLM4Shell, BlackHat Asia 2024. 
+- *2025.06*, Invited speaker, **ISSTA LLMSC workshop 2025**.
+- *2025.03*, LLM Security, **Aliyun WhiteHat Conference 2025**.
+- *2024.08*, New Security Exploitations in the Era of LLMs, **CTFCON 2024**.
+- *2024.04*, LLM4Shell, **BlackHat Asia 2024**. 
