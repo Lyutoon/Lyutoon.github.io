@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Liu Tong, a second-year PhD student in Institute of Information Engineering, Chinese Academy of Sciences, advised by Prof. Kai Chen and Prof. Guozhu Meng. I am also a core player of the well-known CTF teams Nu1L and Straw Hat.
+My name is Liu Tong, a second-year PhD student in Institute of Information Engineering, Chinese Academy of Sciences, advised by Prof. [Kai Chen](https://kaichen.org) and Prof. [Guozhu Meng](https://people.ucas.ac.cn/~gzmeng). I am also a core player of the well-known CTF teams [Nu1L](https://www.nu1l.com) and [Straw Hat](https://strawhat.team).
 
 My current research interests mainly focus on **AI security** and **software security**, with particular attention to their intersection and exploring security issues within the AI software ecosystem. My work has been published in top-tier academic and industry conferences and journals such as **CCS, USENIX Security, TOSEM, and BlackHat**.
 
