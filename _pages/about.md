@@ -21,7 +21,7 @@ My name is Liu Tong, a second-year PhD student in Institute of Information Engin
 
 My current research interests mainly focus on **AI security** and **software security**, with particular attention to their intersection and exploring security issues within the AI software ecosystem. My work has been published in top-tier academic and industry conferences and journals such as **CCS, USENIX Security, TOSEM, and BlackHat**.
 
-Besides research, I am an independent bug hunter who has discovered hundreds of vulnerabilities in both open-source and closed-source software, earning acknowledgments from leading tech companies including **Apple, Google, Microsoft, Baidu, and Huawei**.
+Besides research, I am an independent bug hunter who has discovered hundreds of vulnerabilities in both open-source and closed-source software, earning acknowledgments from leading tech companies including **Apple, Google, Microsoft, Nvidia, Baidu, and Huawei**.
 
 
 # 🔥 News
@@ -55,15 +55,17 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
 # 🎖 Honors and Awards
 
 ## 🛡️ Bug Bounty & Security Research
-- **Bug Bounty and Acknowledgements** from leading tech companies including Apple, Microsoft, Google, Huawei, and Baidu etc.
+- **Bug Bounty and Acknowledgements** from leading tech companies including Apple, Microsoft, Google, Nvidia, Huawei, and Baidu etc.
 - Discovered and reported **40+ CVEs** in AI infrastructures (Deep learning libraries, LLM-integrated frameworks, etc.)
 
 ## 🏆 Selected CTF & AI Competitions
 
 | Achievement | Team |
 |:------------|-----:|
-| **4th Place**, DEFCON CTF Qual 2024 |  Straw Hat |
+| **4th Place**, DEFCON CTF Final 2025 |  Nu1L |
+| **4th Place**, DEFCON CTF Qual 2025 |  Nu1L |
 | **5th Place**, DEFCON CTF Final 2024 |  Straw Hat |
+| **4th Place**, DEFCON CTF Qual 2024 |  Straw Hat |
 | **1st Place**, ByteAI 2024 |  suibianwanwan |
 | **5th Place**, DEFCON CTF Final 2023 |  Straw Hat |
 | **6th Place**, DEFCON CTF Qual 2023 |  Straw Hat |
