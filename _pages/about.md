@@ -33,7 +33,7 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
 
 # 📝 Publications 
 
-- **The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again** [[PDF]()] [[Code](https://github.com/Lyutoon/PickleCloak)]  
+- **The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again** [[PDF](/papers/sec26cycle1-final822.pdf)] [[Code](https://github.com/Lyutoon/PickleCloak)]  
   <u>Tong Liu</u>, Guozhu Meng, Peng Zhou, Zizhuang Deng, Shuaiyin Yao, Kai Chen.  
   *USENIX Security Symposium (**Security**), 2026* (<span style="color:#B00C00">CCF-A</span>)   
 
@@ -49,9 +49,9 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
   <u>Tong Liu</u>, Yuekang Li, Zizhuang Deng, Guozhu Meng, Kai Chen.  
   *BlackHat Asia, 2024*
 
-- **Bleeding Pathways: Vanishing Discriminability in LLM Hidden States Fuels Jailbreak Attacks**  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f4-paper.pdf)]
-  Yingjie Zhang, <u>Tong Liu</u>, Zhe Zhao, Guozhu Meng, and Kai Chen.
-  *The Network and Distributed System Security Symposium (**NDSS**), 2026* (<span style="color:#B00C00">CCF-A</span>) 
+- **Bleeding Pathways: Vanishing Discriminability in LLM Hidden States Fuels Jailbreak Attacks**  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f4-paper.pdf)]  
+  Yingjie Zhang, <u>Tong Liu</u>, Zhe Zhao, Guozhu Meng, Kai Chen.  
+  *The Network and Distributed System Security Symposium (**NDSS**)* (<span style="color:#B00C00">CCF-A</span>)
 
 - **Differential Testing of Cross Deep Learning Framework APIs: Revealing Inconsistencies and Vulnerabilities**  [[PDF](https://www.usenix.org/system/files/usenixsecurity23-deng-zizhuang.pdf)] [[Slides](https://www.usenix.org/system/files/sec23_slides_deng-zizhuang.pdf)] [[Video](https://www.youtube.com/watch?v=-Nh8eu9bVGw)]  
   Zizhuang Deng, Guozhu Meng, Kai Chen, <u>Tong Liu</u>, Lu Xiang, Chunyang Chen.  
