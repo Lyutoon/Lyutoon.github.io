@@ -25,12 +25,17 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper accepted by **USENIX Security 2026**. 
 - *2025.06*: &nbsp;🎉🎉 I'll present my research as an *invited speaker* in **ISSTA LLMSC workshop**. 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by **CCS 2024**. 
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by **USENIX Security 2024**. 
 - *2024.01*: &nbsp;🎉🎉 Our talk got accepted by **BlackHat Asia 2024**. 
 
 # 📝 Publications 
+
+- **The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again** [[PDF]()] [[Code](https://github.com/Lyutoon/PickleCloak)]  
+  <u>Tong Liu</u>, Guozhu Meng, Peng Zhou, Zizhuang Deng, Shuaiyin Yao, Kai Chen.  
+  *USENIX Security Symposium (**Security**), 2026* (<span style="color:#B00C00">CCF-A</span>)   
 
 - **Demystifying RCE Vulnerabilities in LLM-Integrated Apps**  [[PDF](/papers/LLMSmith-CCS.pdf)] [[Code](https://github.com/LLMSmith/LLMSmith)]  
   <u>Tong Liu</u>, Zizhuang Deng, Guozhu Meng, Yuekang Li, Kai Chen.  
@@ -43,6 +48,10 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
 - **LLM4Shell: Discovering and Exploiting RCE Vulnerabilities in Real-World LLM-Integrated Frameworks and Apps**  [[Slides](/papers/bh-asia-2024-llm4shell-2.pdf)] [[Video](https://www.youtube.com/watch?v=LcLrG_4i19E)]  
   <u>Tong Liu</u>, Yuekang Li, Zizhuang Deng, Guozhu Meng, Kai Chen.  
   *BlackHat Asia, 2024*
+
+- **Bleeding Pathways: Vanishing Discriminability in LLM Hidden States Fuels Jailbreak Attacks**  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f4-paper.pdf)]
+  Yingjie Zhang, <u>Tong Liu</u>, Zhe Zhao, Guozhu Meng, and Kai Chen.
+  *The Network and Distributed System Security Symposium (**NDSS**), 2026* (<span style="color:#B00C00">CCF-A</span>)   
 
 - **Differential Testing of Cross Deep Learning Framework APIs: Revealing Inconsistencies and Vulnerabilities**  [[PDF](https://www.usenix.org/system/files/usenixsecurity23-deng-zizhuang.pdf)] [[Slides](https://www.usenix.org/system/files/sec23_slides_deng-zizhuang.pdf)] [[Video](https://www.youtube.com/watch?v=-Nh8eu9bVGw)]  
   Zizhuang Deng, Guozhu Meng, Kai Chen, <u>Tong Liu</u>, Lu Xiang, Chunyang Chen.  
