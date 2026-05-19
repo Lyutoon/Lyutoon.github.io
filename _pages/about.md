@@ -49,6 +49,10 @@ Besides research, I am an independent bug hunter who has discovered hundreds of 
   <u>Tong Liu</u>, Yuekang Li, Zizhuang Deng, Guozhu Meng, Kai Chen.  
   *BlackHat Asia, 2024*
 
+- **Implementation Bugs as Attacks: Adversarial Neuron Fuzzing and Supply-Chain Backdoors** (To be appeared)   
+  Zizhuang Deng, Yiying Shan, Sanchuan Chen, Guozhu Meng, Qingxin Wang, Xueqing Zhang, <u>Tong Liu</u>.
+  *ACM Conference on Computer and Communications Security (**CCS**), 2026* (<span style="color:#B00C00">CCF-A</span>)
+
 - **Bleeding Pathways: Vanishing Discriminability in LLM Hidden States Fuels Jailbreak Attacks**  [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2026-f4-paper.pdf)]  
   Yingjie Zhang, <u>Tong Liu</u>, Zhe Zhao, Guozhu Meng, Kai Chen.  
   *The Network and Distributed System Security Symposium (**NDSS**)* (<span style="color:#B00C00">CCF-A</span>)
